@@ -2,7 +2,7 @@
 
 This repository contains 4 questions from a real home test of a gaming company, data is about a mobile game.
 
-For the purpose of uploading my solution i created a fake database but very similar to the original database given in the test.
+For this work, I created a fake database but very similar to the original database given in the test.
 
 * **The following image shows the first 5 rows of the three tables that were given in the test:**
 
