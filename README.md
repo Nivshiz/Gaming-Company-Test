@@ -4,6 +4,8 @@ This repository contains 4 questions from a real home test of a gaming company, 
 
 For this work, I created a fake database but very similar to the original database given in the test.
 
+The work is done in Python using jupyter notebook, along with MySQL server.
+
 * **The following image shows the first 5 rows of the three tables from the original database:**
 
 ![SQL 5 row tables](https://user-images.githubusercontent.com/80172576/194295535-8666cd3b-29c5-48d8-9516-840e06f8bd2e.jpeg)
